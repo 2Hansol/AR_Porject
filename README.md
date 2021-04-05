@@ -1,6 +1,9 @@
 # AR_Porject
 ### InteractiveMedia class Project
 #### 인터랙티브 AR 동화책 (인어공주 편) 
+![캡처](https://user-images.githubusercontent.com/43209298/113535210-c348c700-960d-11eb-8952-5f822e595241.JPG)
+
+
 동화책이 진행되는 중에 AR기능을 통해 노래나 동영상을 재생하는 등 상호적인 동화책을 만들고 마지막 결말은 기존에 결말과는 다른 두가지의 결말을 두어서 선택할 수 있게 한다. 
 
 
