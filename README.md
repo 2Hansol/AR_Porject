@@ -1,5 +1,5 @@
 # AR_Porject
-### InteractiveMedia class Project
+### InteractiveMedia class Project(2019-fall)
 #### 인터랙티브 AR 동화책 (인어공주 편) 
 <img src="https://user-images.githubusercontent.com/43209298/113535210-c348c700-960d-11eb-8952-5f822e595241.JPG"  width="670" height="350">
 
